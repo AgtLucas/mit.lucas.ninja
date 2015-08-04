@@ -4,7 +4,7 @@
   "description": "MIT License",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "surge -p public -d mit.lucas.ninja"
   },
   "repository": {
     "type": "git",
